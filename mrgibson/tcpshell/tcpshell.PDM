@@ -1,0 +1,156 @@
+[Root]
+Most Recent Package=Logiciel d'installation standard 1
+
+
+[Package|Logiciel d'installation standard 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\mrgibson\tcpshell\Package
+
+[Package|Logiciel d'installation standard 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Logiciel d'installation standard 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Logiciel d'installation standard 1|Files Found]
+
+[Package|Logiciel d'installation standard 1|Files Released]
+
+[Package|Logiciel d'installation standard 1|Missing Dependency Information]
+
+[Package|Logiciel d'installation standard 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\COMCT332.OCX=
+
+[Package|Logiciel d'installation standard 1|Files Added]
+
+[Package|Logiciel d'installation standard 1|Files Removed]
+
+[Package|Logiciel d'installation standard 1|Files In Project]
+D:\mrgibson\tcpshell\tcpshell.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+E:\devel\vb98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6FR.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTFR.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\CMDLGFR.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCMCFR.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCC2FR.DLL=Yes
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=Yes
+E:\devel\vb98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\RCHTXFR.DLL=Yes
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=Yes
+C:\WINDOWS\SYSTEM\WINSKFR.DLL=Yes
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\SYSINFR.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCT332.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCT3FR.DLL=Yes
+E:\devel\vb98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\devel\vb98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+E:\devel\vb98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Logiciel d'installation standard 1|Configure Registry Files]
+Applicable=No
+
+[Package|Logiciel d'installation standard 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Logiciel d'installation standard 1|Install Locations]
+D:\mrgibson\tcpshell\tcpshell.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+E:\devel\vb98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6FR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDO20FR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDC20FR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCC2FR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\INETFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+E:\devel\vb98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\RCHTXFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\WINSKFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMPIFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MCIFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PCCLPFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMSKFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\STDFTFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DATGDFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DATLSFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCT3FR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ADODCFR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFGFR.DLL=$(WinSysPath)
+E:\devel\vb98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+E:\devel\vb98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\devel\vb98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+E:\devel\vb98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Logiciel d'installation standard 1|Configure Shared Files]
+Applicable=Yes
+D:\mrgibson\tcpshell\tcpshell.exe=No
+E:\devel\vb98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Logiciel d'installation standard 1|Distribution]
+Type=single
+Size=
+Title=tcpshell
+
+[Package|Logiciel d'installation standard 1|Package]
+PackageFolder=D:\mrgibson\tcpshell\Package
+ProjectFolder=D:\mrgibson\tcpshell
+ServerSideCab=
+File1=D:\mrgibson\tcpshell\Package\setup.exe
+File2=D:\mrgibson\tcpshell\Package\Setup.Lst
+File3=D:\mrgibson\tcpshell\Package\tcpshell.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Logiciel d'installation standard 1|IconGroups]
+Group0=tcpshell
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Logiciel d'installation standard 1|tcpshell]
+Icon1=tcpshell.exe
+Title1=tcpshell
+StartIn1=$(AppPath)
+Key1=Icon1
